@@ -35,7 +35,6 @@ crew-sandbox/
 
 ## Open gaps
 
-- No contribution notes (branch names, commit style, PR template).
 - No shared place yet for design work (screens, sketches, notes).
 
 These are the kind of things a first follow-up task could add.
