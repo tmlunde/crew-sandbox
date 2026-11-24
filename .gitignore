@@ -1,0 +1,22 @@
+# Sandbox runtime files present in every agent working copy.
+# These are per-agent configs, not project files: never commit them.
+
+# Agent / MCP config
+.claude/
+.mcp.json
+
+# Shell configs
+.bashrc
+.bash_profile
+.profile
+.zshrc
+.zprofile
+
+# Tool configs
+.gitconfig
+.gitmodules
+.ripgreprc
+
+# Editor folders
+.idea
+.vscode
