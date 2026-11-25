@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297" font-family="Helvetica, Arial, sans-serif">
+<defs><pattern id="hatch" width="3" height="3" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="3" stroke="#444" stroke-width="0.3"/></pattern><marker id="ar" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#000"/></marker></defs>
+<rect width="420" height="297" fill="#fff"/>
+<rect x="10" y="10" width="400" height="277" fill="none" stroke="#000" stroke-width="0.7"/>
+<polygon points="40.00,120.00 40.00,66.00 48.00,66.00 48.00,90.00 168.00,90.00 168.00,66.00 176.00,66.00 176.00,120.00" fill="url(#hatch)" stroke="#000" stroke-width="0.5"/>
+<polyline points="40.00,130.00 40.00,194.00 48.00,194.00 48.00,170.00 168.00,170.00 168.00,194.00 176.00,194.00 176.00,130.00" stroke="#000" stroke-width="0.5" fill="none"/>
+<line x1="40.0" y1="140.0" x2="176.0" y2="140.0" stroke="#000" stroke-width="0.3" stroke-dasharray="3,1.5"/>
+<line x1="48.0" y1="170.0" x2="48.0" y2="194.0" stroke="#000" stroke-width="0.5" fill="none"/>
+<line x1="168.0" y1="170.0" x2="168.0" y2="194.0" stroke="#000" stroke-width="0.5" fill="none"/>
+<line x1="40.0" y1="120.0" x2="176.0" y2="120.0" stroke="#000" stroke-width="0.5" fill="none"/>
+<line x1="28.0" y1="130" x2="188.0" y2="130" stroke="#000" stroke-width="0.25" stroke-dasharray="8,2,1,2" fill="none"/>
+<text x="108.0" y="18.0" font-size="5" text-anchor="middle">SIDE VIEW — upper half in section</text>
+<line x1="40.0" y1="66.0" x2="40.0" y2="54.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="48.0" y1="66.0" x2="48.0" y2="54.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="40.0" y1="56.0" x2="48.0" y2="56.0" stroke="#000" stroke-width="0.25" fill="none" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="44.0" y="54.5" font-size="4.5" text-anchor="middle">4</text>
+<line x1="168.0" y1="66.0" x2="168.0" y2="54.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="176.0" y1="66.0" x2="176.0" y2="54.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="168.0" y1="56.0" x2="176.0" y2="56.0" stroke="#000" stroke-width="0.25" fill="none" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="172.0" y="54.5" font-size="4.5" text-anchor="middle">4</text>
+<line x1="48.0" y1="90.0" x2="48.0" y2="80.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="168.0" y1="90.0" x2="168.0" y2="80.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="48.0" y1="82.0" x2="168.0" y2="82.0" stroke="#000" stroke-width="0.25" fill="none" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="108.0" y="80.5" font-size="4.5" text-anchor="middle">60 barrel</text>
+<line x1="40.0" y1="66.0" x2="40.0" y2="40.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="176.0" y1="66.0" x2="176.0" y2="40.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="40.0" y1="42.0" x2="176.0" y2="42.0" stroke="#000" stroke-width="0.25" fill="none" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="108.0" y="40.5" font-size="4.5" text-anchor="middle">68 overall</text>
+<line x1="168.0" y1="170.0" x2="194.0" y2="170.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="168.0" y1="90.0" x2="194.0" y2="90.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="192.0" y1="170.0" x2="192.0" y2="90.0" stroke="#000" stroke-width="0.25" fill="none" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="190.5" y="130.0" font-size="4.5" text-anchor="middle" transform="rotate(-90 190.5 130.0)">Ø40 barrel</text>
+<line x1="176.0" y1="194.0" x2="210.0" y2="194.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="176.0" y1="66.0" x2="210.0" y2="66.0" stroke="#000" stroke-width="0.25" fill="none"/>
+<line x1="208.0" y1="194.0" x2="208.0" y2="66.0" stroke="#000" stroke-width="0.25" fill="none" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="206.5" y="130.0" font-size="4.5" text-anchor="middle" transform="rotate(-90 206.5 130.0)">Ø64 flange</text>
+<circle cx="330" cy="130" r="64.0" stroke="#000" stroke-width="0.5" fill="none"/>
+<circle cx="330" cy="130" r="40.0" stroke="#000" stroke-width="0.3" stroke-dasharray="3,1.5" fill="none"/>
+<circle cx="330" cy="130" r="10.0" stroke="#000" stroke-width="0.5" fill="none"/>
+<line x1="260.0" y1="130" x2="400.0" y2="130" stroke="#000" stroke-width="0.25" stroke-dasharray="8,2,1,2" fill="none"/>
+<line x1="330" y1="60.0" x2="330" y2="200.0" stroke="#000" stroke-width="0.25" stroke-dasharray="8,2,1,2" fill="none"/>
+<text x="330" y="18.0" font-size="5" text-anchor="middle">END VIEW</text>
+<line x1="277.67409819219546" y1="182.3259018078045" x2="322.9289321881345" y2="137.07106781186548" stroke="#000" stroke-width="0.25" fill="none" marker-end="url(#ar)"/>
+<line x1="277.67409819219546" y1="182.3259018078045" x2="239.67409819219546" y2="182.3259018078045" stroke="#000" stroke-width="0.25" fill="none"/>
+<text x="276.67409819219546" y="180.8259018078045" font-size="4.5" text-anchor="end">Ø10 bore through</text>
+<text x="20" y="222" font-size="4.5">Barrel Ø40 × 60 long</text>
+<text x="20" y="229" font-size="4.5">Flanges Ø64 × 4 thick, one at each barrel end</text>
+<text x="20" y="236" font-size="4.5">Bore Ø10 through, full 68 length</text>
+<text x="20" y="243" font-size="4.5">Overall length 68</text>
+<text x="20" y="250" font-size="4.5">All dimensions in mm. Scale 2:1. Sharp edges: break 0.2 (not modelled).</text>
+<rect x="250" y="222" width="160" height="65" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="253" y="228.31428571428572" font-size="4.2" fill="#555">Part</text>
+<text x="282" y="228.31428571428572" font-size="4.6" font-weight="bold">Winch drum — camera winch</text>
+<line x1="250" y1="231.28571428571428" x2="410" y2="231.28571428571428" stroke="#000" stroke-width="0.25" fill="none"/>
+<text x="253" y="237.6" font-size="4.2" fill="#555">Task</text>
+<text x="282" y="237.6" font-size="4.6">PHO-21</text>
+<line x1="250" y1="240.57142857142858" x2="410" y2="240.57142857142858" stroke="#000" stroke-width="0.25" fill="none"/>
+<text x="253" y="246.8857142857143" font-size="4.2" fill="#555">Material</text>
+<text x="282" y="246.8857142857143" font-size="4.6">6061 aluminium</text>
+<line x1="250" y1="249.85714285714286" x2="410" y2="249.85714285714286" stroke="#000" stroke-width="0.25" fill="none"/>
+<text x="253" y="256.1714285714286" font-size="4.2" fill="#555">Density</text>
+<text x="282" y="256.1714285714286" font-size="4.6">2700 kg/m³</text>
+<line x1="250" y1="259.14285714285717" x2="410" y2="259.14285714285717" stroke="#000" stroke-width="0.25" fill="none"/>
+<text x="253" y="265.45714285714286" font-size="4.2" fill="#555">Volume</text>
+<text x="282" y="265.45714285714286" font-size="4.6">95.79 cm³</text>
+<line x1="250" y1="268.42857142857144" x2="410" y2="268.42857142857144" stroke="#000" stroke-width="0.25" fill="none"/>
+<text x="253" y="274.74285714285713" font-size="4.2" fill="#555">Mass</text>
+<text x="282" y="274.74285714285713" font-size="4.6" font-weight="bold">258.6 g</text>
+<line x1="250" y1="277.7142857142857" x2="410" y2="277.7142857142857" stroke="#000" stroke-width="0.25" fill="none"/>
+<text x="253" y="284.0285714285714" font-size="4.2" fill="#555">File</text>
+<text x="282" y="284.0285714285714" font-size="4.6">cad/winch_drum.py</text>
+<line x1="279" y1="222" x2="279" y2="287" stroke="#000" stroke-width="0.25" fill="none"/>
+</svg>
